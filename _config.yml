@@ -1,0 +1,7 @@
+gems:
+  - jekyll-seo-tag
+
+repository: tataronrails/tataronrails.github.io
+title: Tatar On Rails
+show_downloads: false
+url: tataronrails.com
